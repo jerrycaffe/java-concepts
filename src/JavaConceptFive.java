@@ -16,9 +16,9 @@ public class JavaConceptFive {
         callPrint(childRef2);
 
 //        Will not run
-        Parent parentChild = new Parent();
-        Child childParent = parentChild;
-        childParent.printOut();
+//        Parent parentChild = new Parent();
+//        Child childParent = parentChild;
+//        childParent.printOut();
     }
 
 
