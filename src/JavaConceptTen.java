@@ -11,7 +11,7 @@ public class JavaConceptTen {
         System.out.println("Integer reference called "+i);
     }
     public static void main(String[] args) {
-        funTen(null); //An error of ambiguous method call is thrown
+//        funTen(null); //An error of ambiguous method call is thrown
         // because both Integer and String are more specific, so the compiler is confused
     }
 }
