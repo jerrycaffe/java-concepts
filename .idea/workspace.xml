@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef9c7d8f-1f44-463c-bd7a-e01dad43b453" name="Changes" comment="Java concept seven talks about global variable is initialized before constructor">
-      <change afterPath="$PROJECT_DIR$/src/JavaConceptSixteen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaConceptSeventeen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +47,7 @@
     &quot;last_opened_file_path&quot;: &quot;/home/jeremia/Desktop/projects/java-concepts&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.JavaConceptSixteen">
+  <component name="RunManager" selected="Application.JavaConceptSeventeen">
     <configuration name="JavaConceptFifteen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaConceptFifteen" />
       <module name="java-concepts" />
@@ -57,6 +57,13 @@
     </configuration>
     <configuration name="JavaConceptFourteen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaConceptFourteen" />
+      <module name="java-concepts" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaConceptSeventeen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaConceptSeventeen" />
       <module name="java-concepts" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,20 +83,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaConceptTwelve" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaConceptTwelve" />
-      <module name="java-concepts" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaConceptSeventeen" />
         <item itemvalue="Application.JavaConceptSixteen" />
         <item itemvalue="Application.JavaConceptFifteen" />
         <item itemvalue="Application.JavaConceptFourteen" />
         <item itemvalue="Application.JavaConceptThirteen" />
-        <item itemvalue="Application.JavaConceptTwelve" />
       </list>
     </recent_temporary>
   </component>
