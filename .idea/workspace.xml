@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef9c7d8f-1f44-463c-bd7a-e01dad43b453" name="Changes" comment="Java concept seven talks about global variable is initialized before constructor">
-      <change afterPath="$PROJECT_DIR$/src/JavaConceptThirtyNine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaConceptForty.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,17 +47,18 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.JavaConceptThirtyNine">
-    <configuration name="JavaConceptThirtyEight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaConceptThirtyEight" />
+  <component name="RunManager" selected="Application.JavaConceptForty">
+    <configuration name="JavaConceptForty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaConceptForty" />
       <module name="java-concepts" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaConceptThirtyFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaConceptThirtyFive" />
+    <configuration name="JavaConceptThirtyEight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaConceptThirtyEight" />
       <module name="java-concepts" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaConceptForty" />
         <item itemvalue="Application.JavaConceptThirtyNine" />
         <item itemvalue="Application.JavaConceptThirtyEight" />
         <item itemvalue="Application.JavaConceptThirtySeven" />
         <item itemvalue="Application.JavaConceptThirtySix" />
-        <item itemvalue="Application.JavaConceptThirtyFive" />
       </list>
     </recent_temporary>
   </component>
