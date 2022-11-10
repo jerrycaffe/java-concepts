@@ -5,10 +5,10 @@ class ParentFortyNine{
     }
 }
 class ChildFortyNine extends ParentFortyNine{
-    int greeting(){ //gives error
-        System.out.println("Child called");
-        return 1;
-    }
+//    int greeting(){ //gives error
+//        System.out.println("Child called");
+//        return 1;
+//    }
 
 }
 public class JavaConceptFortyNine {
