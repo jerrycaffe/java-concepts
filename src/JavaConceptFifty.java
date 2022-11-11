@@ -18,9 +18,9 @@ class ChildFifty extends ParentFifty{
     void sumNumber() throws ArithmeticException{
         System.out.println("This is fine and no error");
     }
-    void multiplyNumber() throws Exception{
-        System.out.println("This is not fine as this is throwing an exception higher than the parent in the chain");
-    }
+//    void multiplyNumber() throws Exception{
+//        System.out.println("This is not fine as this is throwing an exception higher than the parent in the chain");
+//    }
 }
 
 public class JavaConceptFifty {
